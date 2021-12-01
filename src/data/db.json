@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "asdasda",
+      "body": "sadasdasdas",
+      "author": "Mario",
+      "id": 5
+    },
+    {
+      "title": "2222222",
+      "body": "22222222222",
+      "author": "Kamil",
+      "id": 6
+    },
+    {
+      "title": "ffff",
+      "body": "fff",
+      "author": "Mario",
+      "id": 7
+    },
+    {
+      "title": "7894159",
+      "body": "u9ijojoi",
+      "author": "Mario",
+      "id": 8
+    },
+    {
+      "title": "uikljkjlj",
+      "body": "kjljkl",
+      "author": "Mario",
+      "id": 9
+    },
+    {
+      "title": "uikljkjlj",
+      "body": "kjljkl",
+      "author": "Mario",
+      "id": 10
+    }
+  ]
+}
